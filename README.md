@@ -30,6 +30,10 @@ RAG 智能检索助手是一个基于检索增强生成（Retrieval-Augmented Ge
     └── 直接回答 ──> [最终回答] (SSE 流式输出)
 ```
 
+<img src="./picture/01.png">
+<img src="./picture/02.png">
+<img src="./picture/03.png">
+
 ## 关键设计特点
 | 特点 | 说明 |
 |------|------|
