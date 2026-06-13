@@ -72,3 +72,5 @@ npm run dev
 
 # 5. 访问 http://localhost:5173
 ```
+#### 声明
+作者使用的是阿里云的api_key，用户若想使用其他的模型只需配置一下env文件中的api_key和model即可
