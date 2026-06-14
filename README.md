@@ -20,10 +20,6 @@ case01/
 │       ├── core/
 │       │   ├── config.py           # 全局配置（读取 .env）
 │       │   └── dependencies.py     # 依赖注入（DB Session）
-│       ├── routers/
-│       │   ├── chat.py             # 聊天路由
-│       │   ├── document.py         # 文档管理路由
-│       │   └── session.py          # 会话管理路由
 │       ├── services/
 │       │   ├── chat_service.py     # 聊天业务逻辑
 │       │   └── document_service.py # 文档后台异步处理
